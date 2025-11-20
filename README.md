@@ -79,7 +79,7 @@ To replicate this project, follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)BhaveshV23/Enterprise-Data-Analysis-Agent-Superstore-Profitability.git
+    git clone https://github.com/BhaveshV23/Enterprise-Data-Analysis-Agent-Superstore-Profitability.git
     cd Enterprise-Data-Analysis-Agent-Superstore-Profitability
     ```
 

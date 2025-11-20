@@ -46,7 +46,7 @@ The project leverages modern data science and generative AI tooling for optimal 
 | **Data Processing** | Python, Pandas, NumPy | Data cleaning, feature engineering, and statistical analysis. |
 | **Visualization** | Matplotlib/Pyplot | Generation of all custom EDA charts (`.png` files). |
 | **Reporting** | FPDF2 | Assembly and generation of the final PDF business report. |
-| **Environment** | Kaggle Notebook / Jupyter | Execution and testing environment. |
+| **Environment** | Kaggle Notebook | Execution and testing environment. |
 
 ---
 

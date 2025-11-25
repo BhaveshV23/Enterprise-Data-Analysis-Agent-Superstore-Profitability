@@ -2,6 +2,12 @@
 
 **Autonomous AI-Powered Business Intelligence Platform for Deep Profitability Analysis**
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Kaggle-orange)
+![AI](https://img.shields.io/badge/AI-Gemini%20API-purple)
+
+
 | Status | Value |
 | :--- | :--- |
 | **Python** | `3.10+` |
@@ -120,6 +126,16 @@ print(enterprise_agent("Check the 'profit' column for any significant outliers."
 generate_business_report_v3(df)
 ```
 
+## 📸 Screenshots
+
+| | |
+|---|---|
+| ![Screenshot 1](https://github.com/BhaveshV23/Enterprise-Data-Analysis-Agent-Superstore-Profitability/blob/main/proofs/Screenshot%202025-11-25%20135719.png) | ![Screenshot 2](https://github.com/BhaveshV23/Enterprise-Data-Analysis-Agent-Superstore-Profitability/blob/main/proofs/Screenshot%202025-11-25%20135819.png) |
+| ![Screenshot 3](https://github.com/BhaveshV23/Enterprise-Data-Analysis-Agent-Superstore-Profitability/blob/main/proofs/Screenshot%202025-11-25%20135855.png) | ![Screenshot 4](https://github.com/BhaveshV23/Enterprise-Data-Analysis-Agent-Superstore-Profitability/blob/main/proofs/Screenshot%202025-11-25%20135924.png) |
+| ![Screenshot 5](https://github.com/BhaveshV23/Enterprise-Data-Analysis-Agent-Superstore-Profitability/blob/main/proofs/Screenshot%202025-11-25%20140516.png) | ![Screenshot 6](https://github.com/BhaveshV23/Enterprise-Data-Analysis-Agent-Superstore-Profitability/blob/main/proofs/Screenshot%202025-11-25%20140557.png) |
+| ![Screenshot 7](https://github.com/BhaveshV23/Enterprise-Data-Analysis-Agent-Superstore-Profitability/blob/main/proofs/Screenshot%202025-11-25%20140626.png) | ![Screenshot 8](https://github.com/BhaveshV23/Enterprise-Data-Analysis-Agent-Superstore-Profitability/blob/main/proofs/Screenshot%202025-11-25%20140646.png) |
+
+
 ## ✅ Results
 The agent successfully generated a comprehensive report identifying key profitability drivers and risks:
 
@@ -152,5 +168,7 @@ This project is licensed under the MIT License.
 **Kaggle:** https://www.kaggle.com/bhaveshv23
 
 **Email:** bhaveshvadnere8888@gmail.com
+
+**Youtube:** https://www.youtube.com/channel/UC0VROXkw0mKMf_RtEFqmRrA
 
 #AI #GenAI #DataAnalysis #EDA #Profitability #Python #OpenAI #LangChain #Superstore
